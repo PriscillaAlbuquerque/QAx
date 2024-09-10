@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","648","webapp deve estar online","","Thu Sep 05 10:28:29 GMT-03:00 2024","passed","Thu Sep 05 10:28:30 GMT-03:00 2024","","home","",""
+"","217","deve concluir uma tarefa","tarefas","Thu Sep 05 10:28:35 GMT-03:00 2024","passed","Thu Sep 05 10:28:35 GMT-03:00 2024","","atualização","",""
+"","815","deve cadastrar uma nova tarefa","tarefas","Thu Sep 05 10:28:33 GMT-03:00 2024","passed","Thu Sep 05 10:28:34 GMT-03:00 2024","","cadastro","",""
+"","189","campo obrigatório","tarefas","Thu Sep 05 10:28:35 GMT-03:00 2024","passed","Thu Sep 05 10:28:35 GMT-03:00 2024","","cadastro","",""
+"","240","deve remover uma tarefa","tarefas","Thu Sep 05 10:28:35 GMT-03:00 2024","passed","Thu Sep 05 10:28:35 GMT-03:00 2024","","exclusão","",""
+"","615","não deve permitir tarefa duplicada","tarefas","Thu Sep 05 10:28:34 GMT-03:00 2024","passed","Thu Sep 05 10:28:35 GMT-03:00 2024","","cadastro","",""
